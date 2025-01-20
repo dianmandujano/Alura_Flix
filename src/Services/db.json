@@ -1,0 +1,77 @@
+{
+  "video": [
+    {
+      "titulo": "Frontend",
+      "categoria": "FRONTEND",
+      "img": "https://www.servnet.mx/hubfs/Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg",
+      "videoURL": "https://www.youtube.com/embed/rpvrLaBQwgg",
+      "descricao": "El desarrollo frontend es la práctica de convertir datos en interfaces gráficas para que los usuarios puedan ver e interactuar con la información de forma atractiva. Un desarrollador frontend combina HTML, CSS y JavaScript para crear todo lo que los usuarios ven y experimentan directamente en un sitio web o aplicación: botones, imágenes, navegación, formularios y más.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Frontend",
+      "descricao": "El desarrollo frontend moderno incluye el uso de frameworks y bibliotecas como React, Vue y Angular, que permiten crear aplicaciones web interactivas y dinámicas. Estos frameworks facilitan la creación de componentes reutilizables, el manejo del estado de la aplicación y la optimización del rendimiento, resultando en experiencias de usuario más fluidas y responsivas.",
+      "categoria": "BACKEND",
+      "img": "https://www.servnet.mx/hubfs/Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg",
+      "video": "VideoURL",
+      "videoURL": "https://www.youtube.com/embed/F_oOtaxb0L8"
+    },
+    {
+      "id": "3",
+      "titulo": "Backend Development",
+      "descricao": "El desarrollo backend con Node.js permite crear servidores web escalables y de alto rendimiento utilizando JavaScript. Node.js utiliza un modelo de E/S sin bloqueo controlado por eventos que lo hace liviano y eficiente, perfecto para aplicaciones en tiempo real con uso intensivo de datos. Incluye características como el manejo de rutas, middleware, autenticación, y conexiones a bases de datos como MongoDB o PostgreSQL.",
+      "categoria": "BACKEND",
+      "img": "https://www.dongee.com/tutoriales/content/images/2023/01/backend.png",
+      "videoURL": "https://www.youtube.com/embed/8sal2c2DSy0"
+    },
+    {
+      "id": "4",
+      "titulo": "Comunicación Efectiva",
+      "descricao": "Las habilidades blandas son fundamentales para el éxito en el desarrollo de software. La comunicación efectiva permite trabajar mejor en equipo, explicar conceptos técnicos a no programadores, y colaborar en proyectos complejos. Incluye habilidades como la escucha activa, la presentación clara de ideas, la empatía con los usuarios y compañeros, y la capacidad de dar y recibir feedback constructivo.",
+      "categoria": "FRONTEND",
+      "img": "https://www.servnet.mx/hubfs/Backend-y-Frontend-%C2%BFQu%C3%A9-es-c%C3%B3mo-funcionan-en-la-programaci%C3%B3n.jpg",
+      "videoURL": "https://www.youtube.com/embed/qXqezOn4Kqc"
+    },
+    {
+      "id": "6",
+      "titulo": "Trabajo en Equipo",
+      "descricao": "El trabajo en equipo efectivo es crucial en el desarrollo de software moderno. Implica colaboración en control de versiones con Git, revisiones de código, planificación ágil, y comunicación constante. Las habilidades incluyen la capacidad de dividir tareas complejas, resolver conflictos constructivamente, mantener documentación clara, y contribuir a un ambiente de trabajo positivo que fomenta la innovación y el aprendizaje continuo.",
+      "categoria": "MOBILE",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKUFKkPjSrTaR8c8EdhjAP0_0-Rb8MZuoLw&s",
+      "videoURL": "https://www.youtube.com/embed/wHFflWvii3M"
+    },
+    {
+      "id": "2d6f",
+      "titulo": "asd",
+      "categoria": "asd",
+      "img": "asd",
+      "videoURL": "asd",
+      "descricao": "asd"
+    },
+    {
+      "id": "ef52",
+      "titulo": "Video nuevo",
+      "categoria": "MOBILE",
+      "img": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png",
+      "videoURL": "https://youtube.com",
+      "descricao": "Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, Descripcion larga, "
+    },
+    {
+      "titulo": "test",
+      "categoria": "BACKEND",
+      "img": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png",
+      "videoURL": "https://youtube.com",
+      "descricao": "Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, Long description, ",
+      "id": "5265"
+    },
+    {
+      "titulo": "Mobile Test",
+      "categoria": "FRONTEND",
+      "img": "https://e1.pngegg.com/pngimages/273/181/png-clipart-gameboy-shell-classic-nintendo-game-boy-thumbnail.png",
+      "videoURL": "https://youtube.com",
+      "descricao": "Description",
+      "id": "4f18"
+    }
+  ]
+}
